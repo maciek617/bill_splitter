@@ -1,6 +1,6 @@
 # BillSplitter
 
-Live: billsplittervue.netlify.app
+Live: https://billsplittervue.netlify.app/
 
 ## Project setup
 ```
